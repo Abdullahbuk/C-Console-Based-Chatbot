@@ -1,35 +1,55 @@
-# Chatbot-PF-project
+C++ Console-Based Chatbot
+Overview
 
-✨ Features
+Student Assistant Chatbot is a desktop application developed using C++ Builder (FMX). The chatbot interacts with users through predefined responses, learning capabilities, educational content, and mini-games designed for student engagement.
 
-1.Learning from User Queries – Stores and improves responses over time.
+Features
+Interactive chatbot conversation
+Self-learning knowledge base
+Random educational fun facts
+Motivational quotes
+Word Association Game
+Typing Speed Test
+User feedback collection
+Graphical User Interface (FMX)
+Technologies Used
+C++
+Embarcadero C++ Builder
+FireMonkey (FMX)
+STL (Vector, Map, String)
+How It Works
+Chatbot System
 
-2.Games & Fun Activities – Includes riddles, jokes, and a typing speed test.
+The chatbot responds to predefined queries and can learn new answers provided by users.
 
-3.Motivational Quotes & Fun Facts – Keeps users inspired and entertained.
+Word Association Game
 
-4.Programming & Calculation Assistance – Solves basic programming and math problems.
+Users enter words and the chatbot generates related words from a predefined association database.
 
-5.Progress Tracking & Feedback – Helps users track their usage and provide feedback.
+Typing Speed Test
 
-🛠️ Tech Stack
+The application measures typing speed in Words Per Minute (WPM) and provides performance feedback.
 
-1.Language: C++
+Educational Content
 
-2. Concepts Used: File handling, loops, conditionals, functions, arrays, and basic OOP principles.
+Random fun facts and motivational quotes are displayed to improve user engagement.
 
-🚀 How to Run
+My Contribution
+Designed chatbot conversation logic
+Implemented knowledge base system
+Developed typing speed test module
+Developed word association game
+Created user interaction workflow
+Future Improvements
+Database integration
+Natural Language Processing (NLP)
+Speech recognition
+User profile system
+AI-powered responses
+Screenshots
 
-Clone the repository:
+(Add screenshots here)
 
-bash
+Author
 
-Copy
-
-Edit
-
-git clone https://github.com/AlphatheCreative/Chatbot-PF-project
-
-Compile and run the C++ program using any standard compiler (e.g., g++).
-
-Interact with the chatbot through the console.
+Syed Muhammad Abdullah Bukhari
